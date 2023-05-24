@@ -1,6 +1,6 @@
 <?php
 
-class DB
+class DB_Connection
 {
   
 }
